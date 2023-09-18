@@ -61,40 +61,41 @@ their core, so without the right core you can't equip the weapon.
 |    Name    |   Core  |                                               Ability                                      |
 | ---------- | ------- | ------------------------------------------------------------------------------------------ |
 | Laser Gun  |  Solar  | For [10-25] energy shoots [3-50] beams in a spread pattern dealing weak physical damage.   |
-| Flame <br>
-  Thrower    |  Solar  | For [5-20] energy per second spread out flames in front of you dealing weak fire damage <br>
+| Flame\
+  Thrower    |  Solar  | For [5-20] energy per second spread out flames in front of you dealing weak fire damage\
                          and causing burning near impact for [25-75]% fire damage for [3-10] seconds.               |
-| Ice Dart   |  Solar  | For [10-20] energy shoots [1-25] darts of ice out in a circular pattern dealing weak frost <br>
+| Ice Dart   |  Solar  | For [10-20] energy shoots [1-25] darts of ice out in a circular pattern dealing weak frost\
                          damage and has adds [1-2] stacks of chill that can freeze for up to [1.5-2.25] seconds     |
-| Concussive <br>
-   Blast     |  Solar  | For [35-55] energy shoots a blast of air outward deflecting any projectiles and dealing <br>
-                         medium cold damage and adds [3-5] stacks of chill that can freeze for up <br>
+| Concussive\
+   Blast     |  Solar  | For [35-55] energy shoots a blast of air outward deflecting any projectiles and dealing\
+                         medium cold damage and adds [3-5] stacks of chill that can freeze for up\
                          to [2-3] seconds                                                                           |
-| Ice Armor  |  Solar \\
-               Kinetic \\
-                 Dock  \\
-                 Combo | Generates a shield around you for 3 minutes that grants a medium amount of armor and adds \\
+| Ice Armor  |  Solar\
+               Kinetic\
+                 Dock\
+                 Combo | Generates a shield around you for 3 minutes that grants a medium amount of armor and adds\
                          [2-5] stacks of chill that can freeze for up to [0.5-1.5] seconds                          |
-| Plasma \\
-  Armor      |  Solar  \\
-               Kinetic \\
-                 Dock  \\
+| Plasma\
+  Armor      |  Solar\
+               Kinetic\
+                 Dock\
                  Combo | Generates a shield around you for 3 minutes that grants a lot of armor and thorns.         |
-| Energy \\
-  Armor      |  Solar \\
+| Energy\
+  Armor      |  Solar\
                Kinetic | A percentage of your health is converted to a percentage of your energy instead.           |
-| Teleport   |  Solar \\
-               Kinetic \\
-                 Dock \\
+| Teleport   |  Solar\
+               Kinetic\
+                 Dock\
                  Combo | Teleport to the cursor, up to [25-50] yards. [2.5-15] second cooldown.                     |
-| Poison Gas |  Solar  | For [30-50] energy shoots out a canister of poison gas. Enemies in the gas clouds take \\
+| Poison Gas |  Solar  | For [30-50] energy shoots out a canister of poison gas. Enemies in the gas clouds take\
                          medium poison damage.                                                                      | 
-| Ice Storm  |  Solar  | For [45-90] energy create a blizzard at target location, pelting down ice shards that deal \\
-                         high ice damage and adds [4-8] stacks of chill that can freeze for up to [2-3] seconds to \\
+| Ice Storm  |  Solar  | For [45-90] energy create a blizzard at target location, pelting down ice shards that deal\
+                         high ice damage and adds [4-8] stacks of chill that can freeze for up to [2-3] seconds to\
                          all enemies in the area                                                                    |
-| Meteor     |  Solar  | For [55-90] energy summon a meteor to drop in target area after [0.75-2.25] seconds that \\
-                         deal massive fire damage to anything in the area, but also burns for [110-225]% fire \\
+| Meteor     |  Solar  | For [55-90] energy summon a meteor to drop in target area after [0.75-2.25] seconds that\
+                         deal massive fire damage to anything in the area, but also burns for [110-225]% fire\
                          damage to enemies in the flames that last [5-15] seconds                                   |
+
 
 ### Armor
 

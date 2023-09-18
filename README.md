@@ -61,14 +61,14 @@ their core, so without the right core you can't equip the weapon.
 |    Name    |   Core  |                                               Ability                                      |
 | ---------- | ------- | ------------------------------------------------------------------------------------------ |
 | Laser Gun  |  Solar  | For [10-25] energy shoots [3-50] beams in a spread pattern dealing weak physical damage.   |
-| Flame \\
-  Thrower    |  Solar  | For [5-20] energy per second spread out flames in front of you dealing weak fire damage \\
+| Flame <br>
+  Thrower    |  Solar  | For [5-20] energy per second spread out flames in front of you dealing weak fire damage <br>
                          and causing burning near impact for [25-75]% fire damage for [3-10] seconds.               |
-| Ice Dart   |  Solar  | For [10-20] energy shoots [1-25] darts of ice out in a circular pattern dealing weak frost \\
+| Ice Dart   |  Solar  | For [10-20] energy shoots [1-25] darts of ice out in a circular pattern dealing weak frost <br>
                          damage and has adds [1-2] stacks of chill that can freeze for up to [1.5-2.25] seconds     |
-| Concussive \\
-   Blast     |  Solar  | For [35-55] energy shoots a blast of air outward deflecting any projectiles and dealing \\
-                         medium cold damage and adds [3-5] stacks of chill that can freeze for up \\
+| Concussive <br>
+   Blast     |  Solar  | For [35-55] energy shoots a blast of air outward deflecting any projectiles and dealing <br>
+                         medium cold damage and adds [3-5] stacks of chill that can freeze for up <br>
                          to [2-3] seconds                                                                           |
 | Ice Armor  |  Solar \\
                Kinetic \\

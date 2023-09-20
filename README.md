@@ -69,8 +69,21 @@ their core, so without the right core you can't equip the weapon.
 | Energy  Armor      |  Solar Kinetic | A percentage of your health is converted to a percentage of your energy instead.           |
 | Teleport |  Solar Kinetic Dock Combo | Teleport to the cursor, up to [25-50] yards. [2.5-15] second cooldown. |
 | Poison Gas |  Solar  | For [30-50] energy shoots out a canister of poison gas. Enemies in the gas clouds take medium poison damage.   | 
-| Ice Storm  |  Solar  | For [45-90] energy create a blizzard at target location, pelting down ice shards that deal high ice damage and adds [4-8] stacks of chill that can freeze for up to [2-3] seconds to all enemies in the area   |
-| Meteor     |  Solar  | For [55-90] energy summon a meteor to drop in target area after [0.75-2.25] seconds that deal massive fire damage to anything in the area, but also burns for [110-225]% fire damage to enemies in the flames that last [5-15] seconds       |
+| Ice Storm  |  Solar Kinetic  | For [45-90] energy create a blizzard at target location, pelting down ice shards that deal high ice damage and adds [4-8] stacks of chill that can freeze for up to [2-3] seconds to all enemies in the area   |
+| Meteor     |  Solar Kinetic | For [55-90] energy summon a meteor to drop in target area after [0.75-2.25] seconds that deal massive fire damage to anything in the area, but also burns for [110-225]% fire damage to enemies in the flames that last [5-15] seconds       |
+| Levitation | Solar Kinetic Dock Combo | Causes the user to levitate and not be affected by terrain and ground effects like lava or fire. Lasts [3-10] seconds and has a [300-600] second cooldown. |
+| Hurricaine | Solar Kinetic | For [90-150] energy summon a storm that follows you around dealing medium physical damage to enemies in the area. |
+| Thunder Hammer | Kinetic | Generates [30-50] energy per hit, dealing medium lightning damage to enemies hit and kocking them back. |
+| FIre Hammer | Kinetic | Generates [20-45] energy per hit, dealing medium fire damage and igniting the area for [15-20]% fire damage. |
+| Ice Hammer | Kinetic | Generates [15-40] energy per hit, dealing medium ice damage and adding [3-8] stacks of chill that can freeze for up to [1.5-3] seconds. |
+| Taunt | Kinetic | Generates 100 energy but causes all nearby enemies to focus their attacks on you. [15-45] second cooldown. |
+| Defensive Array | Kinetic Dock | For [35-45] energy summons a defensive array at your location. Friendly units in the array take [25-50]% less damage. |
+| Offensive Array | Kinetic Dock | For [35-45] energy summons an offensive array at your location. Friendly units in the array deal [55-85]% more damage. |
+| Fire Walk | Solar Kinetic | For [75-125] energy, leave a trail of fire where you walk for the next [10-35] seconds. |
+| Frost Nova | Solar Kinetic | For [55-90] energy, blast out a nova of frost dealing light ice damage and adding [6-10] stacks of chill that can freeze for up to [1.5-3] seconds. |
+| Whirlwind | Kinetic | For [10-25] energy per second, summon swirling lazer blades that fly around you dealing heavy physical damage to nearby enemies. Also pulls in nearby enemies to slice them better! |
+| Trample | Kinetic | For [45-70] energy trample through an area causing a patch of the ground that deals heavy physical damage to any enemy in it. |
+| Charge | Kinetic | Generates [50-75] energy while charging at and dealing medium physical damage to the target. Has a [15-45] second cooldown. |
 
 
 ### Armor
